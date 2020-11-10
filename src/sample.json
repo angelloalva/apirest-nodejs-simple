@@ -1,0 +1,24 @@
+[
+    {
+        "id":"1",
+        "title":"Terminator 3",
+        "director":"James Cameron",
+        "year":"1999",
+        "rating":"9.5"
+    },
+    {
+        "id":"2",
+        "title":"Batman vs Superman",
+        "director":"Silvester Stalone",
+        "year":"2010",
+        "rating":"4.5"
+    },
+    {
+        "id":"3",
+        "title":"Apocalypto",
+        "director":"Leonardo D'Soria ",
+        "year":"2005",
+        "rating":"7.5"
+    }
+
+]
